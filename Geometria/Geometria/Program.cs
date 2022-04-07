@@ -11,3 +11,4 @@ geometria.calcolaPerimetro();
 geometria.calcolaArea();
 geometria.StampaRettangolo();
 
+geometria.Disegna();
